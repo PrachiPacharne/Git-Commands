@@ -69,4 +69,7 @@ _A list of my commonly used Git commands_
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+| `git difftool origin/master` | show code differences between remote repository and local repository |
+| `git mergetool` | merge the remote repository with local repository code |
+
 
